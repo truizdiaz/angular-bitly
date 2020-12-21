@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "bitly"
+  "defaultProject": "bitly",
+  "cli": {
+    "analytics": "ef204b35-59a8-4449-9857-ba0847e8c6a6"
+  }
 }
